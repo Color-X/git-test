@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("24211321");
         System.out.println("test");
         System.out.println("124141321");
+        System.out.println("124141321");
+        System.out.println("124141321");
     }
 }
