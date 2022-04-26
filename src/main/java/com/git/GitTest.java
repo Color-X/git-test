@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("hello gi1");
         System.out.println("421");
         System.out.println(12314);
+         System.out.println("421");
+        System.out.println(12314);
     }
 }
